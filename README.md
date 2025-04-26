@@ -1,4 +1,4 @@
-# StreamlineSuggest-Real-Time-Product-Recommendation-System-Using-Apache-Spark-Kafka-MongoDB-and-Flask
+# StreamlineSuggest-Real-Time-Product-Recommendation-System-
 ## Introduction
 The project aims to build a live product recommender system based on customer preferences using the [Amazon product dataset]([url](https://nijianmo.github.io/amazon/index.html)). By leveraging big data processing, NoSQL databases, machine learning algorithms, web development, and stream processing, the project seeks to provide users with personalized recommendations, enhancing their shopping experience on an e-commerce platform.
 
